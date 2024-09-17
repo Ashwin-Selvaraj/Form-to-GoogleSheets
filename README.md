@@ -19,4 +19,8 @@ This repository contains a React application that includes functionality for pus
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-URL>
+   git clone <https://github.com/Ashwin-Selvaraj/Form-to-GoogleSheets.git>
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd <project-folder>
