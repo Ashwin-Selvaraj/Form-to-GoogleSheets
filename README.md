@@ -23,4 +23,8 @@ This repository contains a React application that includes functionality for pus
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd <project-folder>
+   cd <Form-to-GoogleSheets>
+
+3. **Install Dependencies:**
+   ```bash
+   cd <npm install>
